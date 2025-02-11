@@ -1,0 +1,157 @@
+[
+    {
+        "question": "Who is the founder of C language?",
+        "options": ["Dennis Ritchie", "James Gosling", "Bjarne Stroustrup", "Guido van Rossum"],
+        "correct_answer": "Dennis Ritchie"
+    },
+    {
+        "question": "Which data type can store only two possible values (0 or 1) in C?",
+        "options": ["bool", "boolean", "int", "float"],
+        "correct_answer": "bool"
+    },
+    {
+        "question": "What is the size of 'int' data type in most 32-bit compilers?",
+        "options": ["2 bytes", "4 bytes", "8 bytes", "Compiler dependent"],
+        "correct_answer": "4 bytes"
+    },
+    {
+        "question": "Which header file is used for input and output functions in C?",
+        "options": ["<stdlib.h>", "<stdio.h>", "<conio.h>", "<string.h>"],
+        "correct_answer": "<stdio.h>"
+    },
+    {
+        "question": "Which loop is guaranteed to execute at least once?",
+        "options": ["for loop", "while loop", "do-while loop", "None of the above"],
+        "correct_answer": "do-while loop"
+    },
+    {
+        "question": "Which function is used to allocate memory dynamically?",
+        "options": ["malloc()", "calloc()", "realloc()", "All of the above"],
+        "correct_answer": "All of the above"
+    },
+    {
+        "question": "Which operator is used for pointer dereferencing?",
+        "options": ["*", "&", "->", "."],
+        "correct_answer": "*"
+    },
+    {
+        "question": "Which function is used to compare two strings in C?",
+        "options": ["strcpy()", "strcmp()", "strcat()", "strlen()"],
+        "correct_answer": "strcmp()"
+    },
+    {
+        "question": "What does 'sizeof(double)' return in a 64-bit system?",
+        "options": ["4", "8", "16", "Compiler dependent"],
+        "correct_answer": "8"
+    },
+    {
+        "question": "Which header file is required for using 'memcpy()' function?",
+        "options": ["<stdio.h>", "<string.h>", "<stdlib.h>", "<math.h>"],
+        "correct_answer": "<string.h>"
+    },
+    {
+        "question": "What is a dangling pointer?",
+        "options": [
+            "A pointer that points to an invalid memory location",
+            "A pointer not initialized",
+            "A pointer pointing to NULL",
+            "A pointer pointing to another pointer"
+        ],
+        "correct_answer": "A pointer that points to an invalid memory location"
+    },
+    {
+        "question": "Which of the following is the correct format specifier for 'float' in C?",
+        "options": ["%c", "%f", "%lf", "%d"],
+        "correct_answer": "%f"
+    },
+    {
+        "question": "What is the default value of an uninitialized int variable in C?",
+        "options": ["0", "1", "Garbage value", "Compiler dependent"],
+        "correct_answer": "Garbage value"
+    },
+    {
+        "question": "Which keyword is used to define a structure in C?",
+        "options": ["class", "struct", "object", "structure"],
+        "correct_answer": "struct"
+    },
+    {
+        "question": "Which of the following is an escape sequence for a new line in C?",
+        "options": ["\\r", "\\t", "\\n", "\\\\"],
+        "correct_answer": "\\n"
+    },
+    {
+        "question": "Which function is used to read a single character from the user?",
+        "options": ["scanf()", "getchar()", "gets()", "fgets()"],
+        "correct_answer": "getchar()"
+    },
+    {
+        "question": "Which of the following is a valid variable name in C?",
+        "options": ["2var", "float", "_myVar", "#define"],
+        "correct_answer": "_myVar"
+    },
+    {
+        "question": "What will be the output of printf('%d', 'A');?",
+        "options": ["A", "65", "Compilation Error", "None of the above"],
+        "correct_answer": "65"
+    },
+    {
+        "question": "Which function is used to open a file in C?",
+        "options": ["open()", "fopen()", "file_open()", "readfile()"],
+        "correct_answer": "fopen()"
+    },
+    {
+        "question": "Which keyword is used to define a constant in C?",
+        "options": ["constant", "define", "const", "fixed"],
+        "correct_answer": "const"
+    },
+    {
+        "question": "Which of the following is used to exit a loop?",
+        "options": ["break", "continue", "return", "goto"],
+        "correct_answer": "break"
+    },
+    {
+        "question": "What does the return 0; statement indicate in the main() function?",
+        "options": [
+            "Program terminated abnormally",
+            "Program executed successfully",
+            "Compilation error",
+            "None of the above"
+        ],
+        "correct_answer": "Program executed successfully"
+    },
+    {
+        "question": "Which function is used to find the length of a string?",
+        "options": ["strcpy()", "strlen()", "strcat()", "strcmp()"],
+        "correct_answer": "strlen()"
+    },
+    {
+        "question": "What will be the output of sizeof(int) in a 32-bit system?",
+        "options": ["2", "4", "8", "Compiler dependent"],
+        "correct_answer": "4"
+    },
+    {
+        "question": "Which of the following is a preprocessor directive in C?",
+        "options": ["#define", "#include", "#ifdef", "All of the above"],
+        "correct_answer": "All of the above"
+    },
+    {
+        "question": "Which loop executes its body at least once?",
+        "options": ["for loop", "while loop", "do-while loop", "None"],
+        "correct_answer": "do-while loop"
+    },
+    {
+        "question": "Which function is used to copy a string?",
+        "options": ["strcpy()", "strcmp()", "strcat()", "strlen()"],
+        "correct_answer": "strcpy()"
+    },
+    {
+        "question": "Which operator is used for bitwise AND operation?",
+        "options": ["&", "|", "^", "<<"],
+        "correct_answer": "&"
+    },
+    {
+        "question": "Which function is used to release dynamically allocated memory?",
+        "options": ["delete()", "remove()", "free()", "clear()"],
+        "correct_answer": "free()"
+    }
+]
